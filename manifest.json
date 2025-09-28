@@ -1,7 +1,7 @@
 [
     {
         "category": "Metadata",
-        "guid": "6a1205ec-edcc-4ebe-8812-aeb353872470",
+        "guid": "4ce89c27-d3a1-4e4b-8f5f-4bd9191c857e",
         "name": "Discogs",
         "description": "This plugin adds the metadata provider for Discogs",
         "owner": "Jellyfin",
