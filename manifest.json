@@ -3,15 +3,15 @@
         "category": "Metadata",
         "guid": "4ce89c27-d3a1-4e4b-8f5f-4bd9191c857e",
         "name": "Discogs",
-        "description": "This plugin adds the metadata provider for Discogs",
-        "owner": "Jellyfin",
-        "overview": "This plugin adds the metadata provider for Discogs",
-        "imageUrl": "https://raw.githubusercontent.com/jellyfin/jellyfin-ux/master/plugins/SVG/jellyfin-plugin-discogs.svg?sanitize=true",
+        "description": "Get music metadata from Discogs\n",
+        "owner": "jellyfin",
+        "overview": "Get music metadata from Discogs",
+        "imageUrl": "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-discogs.png",
         "versions": [
             {
                 "checksum": "e79a69a3f911b4a08c5195dabd245377",
-                "changelog": "Latest unstable version",
-                "targetAbi": "10.8.0.0",
+                "changelog": "- Latest unstable version from jellyfin repo",
+                "targetAbi": "10.9.0.0",
                 "sourceUrl": "https://repo.jellyfin.org/master/files/plugin-unstable/discogs/discogs_1.2505.13.0.zip",
                 "timestamp": "2025-05-10T17:43:04Z",
                 "version": "1.2505.13.0"
